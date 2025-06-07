@@ -3,7 +3,7 @@
 Simple editor for `music.kdr` files from Keep Driving.
 ![Screenshot_5](https://github.com/user-attachments/assets/028828bb-c371-4c95-936d-f644a27aa589)
 
-[![Download Latest Release](https://img.shields.io/badge/Download-EXE-00FF99?style=for-the-badge&logo=windows)]([[https://github.com/yourusername/yourrepo/releases/latest/download/yourprogram.exe](https://github.com/Zubakamaraka/mod_music_kdr/releases/tag/v0.1)](https://github.com/Zubakamaraka/mod_music_kdr/releases/download/v0.1/music_editor.exe))
+[![Download Latest Release](https://img.shields.io/badge/Download-EXE-00FF99?style=for-the-badge&logo=windows)](https://github.com/Zubakamaraka/mod_music_kdr/releases/download/v0.1/music_editor.exe)
 
 ## Features
 - Edit existing music tracks
